@@ -13,6 +13,6 @@ const CONFIG = {
     messDesc: 'Yayyyyyyy',
     btnAccept: 'Tới màn tiếp theo nàoo',
     mess1st: 'Ỏooooooooo',
-    mess1stDesc: 'iu zị saooo',
+    mess1stDesc: 'iuuu zị saooo',
     reply1st: '😏',
 }
