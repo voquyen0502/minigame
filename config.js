@@ -1,0 +1,18 @@
+const CONFIG = {
+    introTitle: 'Hee loo bé iuu! :>',
+    introDesc: 'Chào mứng đến với minigame của anh',
+    btnIntro: '??? ._.',
+    title: 'Đầu tiên, anh muốn hỏi là...',
+    desc: 'Will you be my Valentine?<br/>👉🏻👈🏻',
+    btnYes: 'Vângg :33',
+    btnNo: 'Xí, ai thèm 😏',
+    question:'',
+    btnReply: 'Gửi ._.',
+    reply: 'Hic, không biết :<',
+    mess: 'Biết mà :(( hoi khum sao',
+    messDesc: 'Yayyyyyyy',
+    btnAccept: 'Tới màn tiếp theo nàoo',
+    mess1st: 'Ỏooooooooo',
+    mess1stDesc: 'iu zị saooo',
+    reply1st: '😏',
+}
