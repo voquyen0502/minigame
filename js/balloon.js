@@ -78,9 +78,9 @@ Balloon.prototype.run = function () {
 // 设置背景
 function setBackground() {
     var rd = randomRange(5, 15)/20;
-    var r = 255;
-    var g = 250;
-    var b = 250;
+    var r = 171;
+    var g = 240;
+    var b = 255;
     return "rgba(" + r + "," + g + "," + b + "," + rd + ")";
 }
 
